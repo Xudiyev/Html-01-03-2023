@@ -1,0 +1,15 @@
+
+
+.box{
+ color:black;
+ text-align:center;
+}  
+
+.photo{
+    
+    float:right;width:280px;height: 180px ;
+    background-image: url('./img/4i96xe84T.jpg');
+    background-repeat: no-repeat;
+    ;
+}
+
